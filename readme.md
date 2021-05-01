@@ -1,3 +1,11 @@
+ISHITA RAI
+1911083
+COMPUTER ENGINEERING
+DIV-B
+COURSE: RDBMS
+FACULTY: PRADNYA BHANGLE, VAIBHAV VASANI
+K.J. SOMAIYA COLLEGE OF ENGINEERING
+
 This projects Implements approximate sting matching algorithm on according to the ieee research paper "Supporting Uncertain Predicates in DBMS Using
 Approximate String Matching andProbabilistic Databases"
 
