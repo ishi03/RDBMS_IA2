@@ -10,6 +10,7 @@ data = cursor.fetchall()
 searchq=input("Enter bulding name to search: ")
 
 prob=exec(data,searchq)
+#print(prob)
 
 cursor.execute("create table results(result_name varchar(100),distance float,probability float)")
 conn.commit()
